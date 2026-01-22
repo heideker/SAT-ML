@@ -18,12 +18,6 @@ products.
 -   Preparation of satellite imagery for machine learning pipelines.
 -   Modular and extensible Python architecture.
 
-## Repository Structure
-
-SAT-ML/ ├── clip_s2_to_aoi.py ├── download_s2.py ├── setores.geojson ├──
-setores_wgs84.geojson ├── SentinelBands.png ├── scheme.jpeg ├──
-README.md
-
 ## Prerequisites
 
 -   Python 3.8 or higher
